@@ -11,7 +11,7 @@ A basic Python-based to-do list application that allows users to add, edit, dele
 - Mark tasks as completed or undone
 - Clear all tasks
 
-**Commands Available**
+## Commands Available :
 
 - `add` - Add a new task
 - `edit` - Edit an existing task
